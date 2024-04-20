@@ -2,6 +2,7 @@
 
 ## TODO
 
+- [x] Setup database
 - [ ] Create a page to show the prefreed path to start learning JS
 - [ ] Implement/design for each section in the path the best way to learn it
 - [ ] Add quizes for each section
